@@ -259,7 +259,7 @@ post_tweet(tweet.kerst.tweet,  media = c("data/plots/60_trendlines_cases.png"), 
 tweet.carehomes.tweet <- "Verpleeghuizen
 
 - Locaties met een besmetting
-- nieuwe gevallen (laatste 2 dagen worden nog aangevuld)
+- Nieuwe gevallen (laatste 2 dagen worden nog aangevuld)
 - Aantal doden (laatste 2 weken worden nog aangevuld)"
 tweet.carehomes.tweet <- sprintf(tweet.carehomes.tweet)
 Encoding(tweet.carehomes.tweet) <- "UTF-8"
